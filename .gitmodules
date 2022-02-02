@@ -1,0 +1,6 @@
+[submodule "pyeer"]
+	path = pyeer
+	url = git://github.com/manuelaguadomtz/pyeer.git
+[submodule "yolov5"]
+	path = yolov5
+	url = git://github.com/ultralytics/yolov5.git
