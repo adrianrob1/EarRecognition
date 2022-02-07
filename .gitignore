@@ -1,6 +1,9 @@
 .vscode
 .venv
+crops
 ami
+ami_finetuning
+ami_test
 awe
 cropped_dataset
 IITD-II
