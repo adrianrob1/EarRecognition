@@ -4,3 +4,6 @@
 [submodule "yolov5"]
 	path = yolov5
 	url = git://github.com/ultralytics/yolov5.git
+[submodule "EarRecognitionAndroidApp"]
+	path = EarRecognitionAndroidApp
+	url = https://github.com/AntonioDOrazio/EarRecognitionAndroidApp.git
