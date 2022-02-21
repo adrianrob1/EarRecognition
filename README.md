@@ -1,6 +1,6 @@
 # Ear Detection and Verification with pre-trained CNN models
 
-This repository contains the project files for the Biometric Systems exam in the Master's Degree in Computer Science at Sapienza University.
+This repository contains the project files for the Biometric Systems exam in the Master's Degree in Computer Science at Sapienza University, made by [@adrianrob1](https://github.com/adrianrob1) and [@AntonioDOrazio](https://github.com/AntonioDOrazio).
 
 ## Ear detection
 
